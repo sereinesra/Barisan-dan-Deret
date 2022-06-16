@@ -1,1 +1,2 @@
-# Barisan-dan-Deret
+# BarisanDeretBilangan
+# BarisanDeretBilangan
